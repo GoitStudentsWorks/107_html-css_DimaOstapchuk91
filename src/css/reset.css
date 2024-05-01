@@ -21,8 +21,8 @@ p {
 
 h2 {
   font-weight: 600;
-  font-size: 48px;
-  line-height: 0.92;
+  font-size: 32px;
+  line-height: 1;
   letter-spacing: -0.02em;
   color: #0c0c0c;
   text-transform: capitalize;
@@ -80,6 +80,10 @@ address {
   .section {
     padding: 40px 0;
   }
+    h2 {
+      font-size: 48px;
+      line-height: 0.92;
+    }
 }
 
 @media screen and (min-width: 1280px) {
@@ -90,4 +94,5 @@ address {
   .section {
     padding: 50px 0;
   }
+  
 }
