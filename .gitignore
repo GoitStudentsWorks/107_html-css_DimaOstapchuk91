@@ -1,6 +1,7 @@
 pullrequests.txt
 
 # Logs
+pullrequests.txt
 logs
 *.log
 npm-debug.log*
