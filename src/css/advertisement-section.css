@@ -1,3 +1,6 @@
+
+
+
 .advertisement-text {
   font-weight: 600;
   font-size: 32px;
@@ -52,6 +55,7 @@
   transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1),
     color 300ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 
 .advertisement-btn:hover,
 .advertisement-btn:focus {
