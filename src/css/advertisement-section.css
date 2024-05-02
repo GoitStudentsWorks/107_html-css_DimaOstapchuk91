@@ -1,0 +1,102 @@
+.advertisement-text {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #fbfbfb;
+  padding-top: 60px;
+  padding-bottom: 28px;
+}
+
+.advertisement-span-text {
+  color: rgba(251, 251, 251, 0.5);
+}
+
+.advertisement-section {
+  border-radius: 30px;
+  max-width: 335px;
+  height: 363px;
+  background-color: #0c0c0c;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url(/img/advartisement/mob/Advertisement-1x.png);
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-resolution: 2),
+  screen and (min-resolution: 192dpi),
+  screen and (min-resolution: 2dppx) {
+  .advertisement-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+      url(/img/advartisement/mob/Advertisement-2x.png);
+  }
+}
+
+.advertisement-btn {
+  display: block;
+  background-color: transparent;
+  border: 1px solid rgba(251, 251, 251, 0.15);
+  border-radius: 16px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.29;
+  text-align: center;
+  color: #fbfbfb;
+  padding: 15px 44px;
+  cursor: pointer;
+  margin-bottom: 60px;
+}
+
+.advertisement-btn:hover,
+.advertisement-btn:active {
+  color: rgba(251, 251, 251, 0.5);
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 704px;
+  }
+
+  .advertisement-section {
+    background-image: url(/img/advartisement/tab/Advertisement-tablet-1x.png);
+    background-size: cover;
+    min-width: 704px;
+    min-height: 425px;
+  }
+
+  .advertisement-text {
+    font-size: 48px;
+    line-height: 0.92;
+    padding-top: 80px;
+    padding-bottom: 32px;
+    max-width: 576px;
+  }
+
+  .advertisement-wrapp {
+
+ 
+  }
+  .advertisement-btn {
+    display: block;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+    min-height: 300px;
+  }
+
+  .flex-desk {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .advertisement-text {
+max-width: 690px;
+  }
+
+
+}
