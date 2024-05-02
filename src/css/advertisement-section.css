@@ -4,8 +4,7 @@
   line-height: 1;
   letter-spacing: -0.02em;
   color: #fbfbfb;
-  padding-top: 60px;
-  padding-bottom: 28px;
+  margin-bottom: 28px;
 }
 
 .advertisement-span-text {
@@ -14,13 +13,14 @@
 
 .advertisement-section {
   border-radius: 30px;
-  max-width: 335px;
-  height: 363px;
+  padding: 60px 28px;
+
   background-color: #0c0c0c;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
     url(/img/advartisement/mob/Advertisement-1x.png);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media screen and (min-resolution: 2),
@@ -38,13 +38,13 @@
   border: 1px solid rgba(251, 251, 251, 0.15);
   border-radius: 16px;
   font-weight: 500;
+  max-width: 162px;
   font-size: 14px;
   line-height: 1.29;
   text-align: center;
   color: #fbfbfb;
   padding: 15px 44px;
   cursor: pointer;
-  margin-bottom: 60px;
 }
 
 .advertisement-btn:hover,
@@ -58,27 +58,17 @@
   }
 
   .advertisement-section {
-    background-image: url(/img/advartisement/tab/Advertisement-tablet-1x.png);
-    background-size: cover;
-    min-width: 704px;
-    min-height: 425px;
+    padding: 80px 64px;
   }
 
   .advertisement-text {
     font-size: 48px;
     line-height: 0.92;
-    padding-top: 80px;
-    padding-bottom: 32px;
     max-width: 576px;
-  }
-
-  .advertisement-wrapp {
-
- 
+    margin-bottom: 32px;
   }
   .advertisement-btn {
     display: block;
-    margin-bottom: 0;
   }
 }
 
@@ -88,15 +78,19 @@
     min-height: 300px;
   }
 
+  .advertisement-section {
+    padding: 83px 80px;
+  }
+
   .flex-desk {
     display: flex;
     justify-content: space-between;
-    align-items: center;
   }
 
   .advertisement-text {
-max-width: 690px;
+    max-width: 690px;
+    margin-bottom: 0;
   }
 
-
+  
 }
