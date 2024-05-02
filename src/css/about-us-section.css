@@ -6,11 +6,6 @@
 }
 
 .title-section-about {
-    font-weight: 600;
-    font-size: 32px;
-    line-height: 1;
-    letter-spacing: -0.02em;
-    color: #0c0c0c;
     margin-bottom: 28px;
 }
 
@@ -23,14 +18,13 @@
     font-size: 14px;
     line-height: 1.29;
     letter-spacing: -0.02em;
-    color: rgba(12, 12, 12, 0.7);
 }
 
 .catalog-btn {
     border-radius: 16px;
-    width: 160px;
-    height: 48px;
+    max-width: 162px;
     background-color: #3350e9;
+    padding: 15px 38px;
     border: none;
     cursor: pointer;
 }
@@ -46,6 +40,12 @@
     line-height: 1.29;
     text-align: center;
     color: #fbfbfb;
+    border-radius: 16px;
+    max-width: 162px;
+    background-color: #3350e9;
+    padding: 15px 38px;
+    border: none;
+    cursor: pointer;
 }
 
 .image-about-us {
@@ -86,7 +86,7 @@
     .container-about {
         display: flex;
         flex-direction: row;
-        width: calc(100% - 40px / 1);
+        gap: 40px;
     }
 
     .wrap-picture-about {
@@ -94,7 +94,6 @@
     }
 
     .box-content-about {
-        margin-right: 40px;
         margin-bottom: 0;
         padding: 60px 80px;
     }
@@ -108,6 +107,7 @@
     .text-about {
         font-size: 16px;
         line-height: 1.25;
+        margin-bottom: 40px;
     }
 
 }
