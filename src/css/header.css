@@ -1,1 +1,138 @@
+.header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgba(12, 12, 12, 0.1);
+}
 
+.header-wrap {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-logo {
+  text-transform: lowercase;
+  color: #0c0c0c;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+}
+
+.header-list {
+  display: none;
+}
+
+.social-list {
+  display: none;
+}
+
+.header-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  width: 28px;
+  height: 28px;
+  fill: #0c0c0c;
+}
+
+/* ! 768========================================================================================================================================================
+
+======================================================================================================================================================== */
+
+@media screen and (min-width: 768px) {
+  .header {
+    padding-top: 26px;
+    padding-bottom: 26px;
+  }
+
+  .header-logo {
+    font-size: 20px;
+  }
+  .header-btn {
+    width: 34px;
+    height: 34px;
+  }
+}
+
+/* ! 1280========================================================================================================================================================
+
+======================================================================================================================================================== */
+
+@media screen and (min-width: 1280px) {
+  .header-btn {
+    display: none;
+  }
+
+  .header-menu {
+    padding-bottom: 10px;
+  }
+
+  .header-list {
+    display: flex;
+    gap: 40px;
+  }
+
+  .current {
+    position: relative;
+    display: inline-block;
+    fill: #3350e9;
+  }
+
+  .current::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: -70%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    background: #404bbf;
+  }
+
+  .header-link {
+    text-align: start;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.29;
+    color: #0c0c0c;
+  }
+
+  .social-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .social-list {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .social-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .social-pic {
+    border: 1px solid rgba(12, 12, 12, 0.1);
+    border-radius: 10px;
+    padding: 8px;
+    width: 36px;
+    height: 36px;
+    fill: #0c0c0c;
+  }
+}
+
+/* ========================================================================================================================================================
+Mob menu
+======================================================================================================================================================== */
