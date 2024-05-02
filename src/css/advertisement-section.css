@@ -53,9 +53,7 @@
 }
 
 @media screen and (min-width: 768px) {
-  .container {
-    max-width: 704px;
-  }
+
 
   .advertisement-section {
     padding: 80px 64px;
@@ -73,10 +71,7 @@
 }
 
 @media screen and (min-width: 1280px) {
-  .container {
-    max-width: 1280px;
-    min-height: 300px;
-  }
+ 
 
   .advertisement-section {
     padding: 83px 80px;
