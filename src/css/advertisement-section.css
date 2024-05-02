@@ -7,9 +7,9 @@
   margin-bottom: 28px;
 }
 
-.sections{
-    padding-top: 30px;
-    padding-bottom: 30px;
+.sections {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .advertisement-span-text {
@@ -49,19 +49,21 @@
   color: #fbfbfb;
   padding: 15px 44px;
   cursor: pointer;
+  transition: background-color 300ms cubic-bezier(0.4, 0, 0.2, 1),
+    color 300ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .advertisement-btn:hover,
-.advertisement-btn:active {
-  color: rgba(251, 251, 251, 0.5);
+.advertisement-btn:focus {
+  color: #0c0c0c;
+  background-color: #fbfbfb;
 }
 
 @media screen and (min-width: 768px) {
-
-    .sections{
-        padding-top: 40px;
-        padding-bottom: 40px;
-    }
+  .sections {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
 
   .advertisement-section {
     background-image: url(/img/advartisement/tab/Advertisement-tablet-1x.png);
@@ -69,13 +71,16 @@
   }
 
   @media screen and (min-resolution: 2),
-  screen and (min-resolution: 192dpi),
-  screen and (min-resolution: 2dppx) {
-  .advertisement-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-      url(/img/advartisement/tab/Advertisement-tablet-2x.png);
+    screen and (min-resolution: 192dpi),
+    screen and (min-resolution: 2dppx) {
+    .advertisement-section {
+      background-image: linear-gradient(
+          rgba(0, 0, 0, 0.25),
+          rgba(0, 0, 0, 0.25)
+        ),
+        url(/img/advartisement/tab/Advertisement-tablet-2x.png);
+    }
   }
-}
   .advertisement-text {
     font-size: 48px;
     line-height: 0.92;
@@ -86,39 +91,37 @@
     display: block;
   }
 
-@media screen and (min-width: 1280px) {
-    .sections{
-       padding-top: 50px;
-       padding-bottom: 50px;
+  @media screen and (min-width: 1280px) {
+    .sections {
+      padding-top: 50px;
+      padding-bottom: 50px;
     }
-    
+
     .advertisement-section {
-       background-image: url(/img/advartisement/desk/Advertisement-desktop-1x.png);
-    padding: 83px 80px;
+      background-image: url(/img/advartisement/desk/Advertisement-desktop-1x.png);
+      padding: 83px 80px;
     }
-    
+
     @media screen and (min-resolution: 2),
-    screen and (min-resolution: 192dpi),
-    screen and (min-resolution: 2dppx) {
-    .advertisement-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-     url(/img/advartisement/desk/Advertisement-desktop-2x.png);
+      screen and (min-resolution: 192dpi),
+      screen and (min-resolution: 2dppx) {
+      .advertisement-section {
+        background-image: linear-gradient(
+            rgba(0, 0, 0, 0.25),
+            rgba(0, 0, 0, 0.25)
+          ),
+          url(/img/advartisement/desk/Advertisement-desktop-2x.png);
+      }
+    }
 
-    }
-    }
-    
     .flex-desk {
-    display: flex;
-    justify-content: space-between;
+      display: flex;
+      justify-content: space-between;
     }
-    
+
     .advertisement-text {
-    max-width: 690px;
-    margin-bottom: 0;
+      max-width: 690px;
+      margin-bottom: 0;
     }
+  }
 }
-
-}
- 
-
-  
