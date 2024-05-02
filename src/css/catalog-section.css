@@ -1,0 +1,264 @@
+/* Стилі для обнулення відступів у елементів */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+/* обнулення базових властивостей списків (ul) */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* обнулення базових властивостей у посилань */
+a {
+    text-decoration: none;
+}
+
+/* Властивості для коректного відображення картинок */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+}
+
+/* Властивості для обнулення курсиву address */
+address {
+    font-style: normal;
+}
+
+/* Catalog */
+
+
+/*  */
+.container_catalog {
+    max-width: 375px;
+    margin: 0 20px;
+
+}
+
+/*  */
+.container_watch {
+    background-color: #fff;
+    margin-bottom: 40px;
+}
+
+/*  */
+.title {
+    font-family: Gilroy;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+/*  */
+.watch-list {
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+}
+
+/*  */
+.container_picture-watch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 279px;
+    height: 262px;
+    margin-bottom: 10px;
+}
+
+/*  */
+.watch-link {
+    background-color: rgba(243, 243, 243, 1);
+    border: 1px solid rgba(12, 12, 12, 0.05);
+    border-radius: 30px;
+    width: 335px;
+    height: 364px;
+}
+
+/*  */
+.picture-watch-img {
+    height: 226px;
+    width: 208px;
+}
+
+/*  */
+.container_link {
+    margin: 24px 28px;
+    width: 279px;
+    height: 316px;
+}
+
+/*  */
+.discribe {
+    font-family: Gilroy;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-bottom: 8px;
+    color: rgba(12, 12, 12, 1);
+
+}
+
+
+.price {
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(12, 12, 12, 0.5);
+}
+
+.catalog-button {
+    background-color: rgba(51, 80, 233, 1);
+    width: 160px;
+    height: 48px;
+    border-radius: 16px;
+    border: none;
+    font-family: Gilroy;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: rgba(251, 251, 251, 1);
+    margin: 0 87.5px;
+}
+
+
+
+@media screen and (max-width:767px) {
+    .watch-link-mobile {
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .catalog-button {
+        display: none;
+    }
+    .discribe{
+        font-size: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        width: 280px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .container_link{
+        margin: 24px 32px;
+        width: 280px;
+        height: 366px;
+    }
+    .picture-watch-img{
+        width: 268px;
+        height: 292px;
+    }
+    .watch-link{
+        width: 344px;
+        height: 414px;
+    }
+    .container_picture-watch{
+        width: 280px;
+        height: 312px;
+    }
+    .container_catalog{
+        max-width: 768px;
+        margin: 0 32px;
+    }
+    .container_watch {
+        margin-bottom: 0;
+    }
+    .title{
+        font-size: 48px;
+        line-height: 44px;
+        margin-bottom: 40px;
+    }
+    .watch-list {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 16px;
+        row-gap: 32px;
+    }
+    .container_picture-watch{
+        width: 280px;
+        height: 312px;
+    }
+}
+
+
+@media screen and (min-width:1280px) {
+    .discribe {
+        font-size: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        width: 304px;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+
+    .container_link {
+        margin: 24px 32px;
+        width: 304px;
+        height: 366px;
+    }
+
+    .picture-watch-img {
+        height: 292px;
+        width: 292px;
+    }
+
+    .picture-watch {
+        margin-top: 6px;
+    }
+
+    .container_picture-watch {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        width: 304px;
+        height: 312px;
+        margin-bottom: 10px;
+    }
+
+    .watch-link {
+        width: 368px;
+        height: 414px;
+    }
+
+    .watch-list {
+        display: flex;
+        flex-wrap: wrap;
+        column-gap: 23px;
+        row-gap: 32px;
+    }
+
+    .container_catalog {
+        max-width: 1280px;
+        margin: 0 65px;
+    }
+
+    .title {
+        font-size: 48px;
+        line-height: 44px;
+        margin-bottom: 40px;
+    }
+
+    
+}
