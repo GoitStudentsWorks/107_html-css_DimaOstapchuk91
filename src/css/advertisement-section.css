@@ -7,6 +7,11 @@
   margin-bottom: 28px;
 }
 
+.sections{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
 .advertisement-span-text {
   color: rgba(251, 251, 251, 0.5);
 }
@@ -54,6 +59,10 @@
 
 @media screen and (min-width: 768px) {
 
+    .sections{
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
 
   .advertisement-section {
     padding: 80px 64px;
@@ -72,6 +81,10 @@
 
 @media screen and (min-width: 1280px) {
  
+     .sections{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
 
   .advertisement-section {
     padding: 83px 80px;
