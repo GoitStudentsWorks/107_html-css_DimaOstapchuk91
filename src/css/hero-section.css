@@ -48,6 +48,11 @@
   color: #3350e9;
 }
 
+.hero-image {
+  border-radius: 30px;
+  overflow: hidden;
+}
+
 @media screen and (min-width: 768px) {
   .hero {
     padding-top: 80px;
@@ -84,6 +89,10 @@
   .hero-scroll {
     font-size: 20px;
     line-height: 1;
+  }
+
+  .hero-image {
+    border-radius: 50px;
   }
 }
 
