@@ -1,4 +1,5 @@
 .footer-container {
+  padding-top: 30px;
   padding-bottom: 20px;
 }
 
@@ -146,6 +147,10 @@
 }
 
 @media screen and (min-width: 768px) {
+  .footer-container {
+      padding-top: 40px;
+      padding-bottom: 32px;
+    }
   .footer-top {
     margin-bottom: 28px;
   }
