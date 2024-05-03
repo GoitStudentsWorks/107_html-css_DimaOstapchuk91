@@ -58,10 +58,12 @@
 }
 
 .price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 8px;
   width: 68px;
   height: 32px;
-  padding: 8px 12px;
   background-color: rgba(251, 251, 251, 0.1);
   font-weight: 600;
   font-size: 16px;
@@ -145,6 +147,16 @@
     letter-spacing: -0.02em;
   }
 
+  .price-wrapper {
+    margin-bottom: 30px;
+  }
+
+  .price {
+    width: 78px;
+    font-size: 20px;
+    line-height: 1;
+  }
+
   .description {
     font-size: 16px;
     line-height: 1.25;
@@ -153,6 +165,11 @@
 
   .sale-filters {
     max-width: 398px;
+  }
+
+  .filter-link {
+    font-size: 14px;
+    line-height: 1.28;
   }
 }
 
@@ -169,10 +186,6 @@
   .sale-preview {
     display: flex;
     gap: 40px;
-  }
-
-  .price-wrapper {
-    margin-bottom: 20px;
   }
 
   .sale-description {
