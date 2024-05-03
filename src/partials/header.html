@@ -1,10 +1,10 @@
-<header class="header">
+<header id="header" class="header">
   <div class="header-wrap container">
-    <a href="#" class="header-logo">watchcharm</a>
+    <a href="/index.html" class="header-logo">watchcharm</a>
     <nav class="header-menu">
       <ul class="header-list">
-        <li class="header-item current">
-          <a href="#" class="header-link">Home</a>
+        <li class="header-item">
+          <a href="#" class="header-link current-nav">Home</a>
         </li>
         <li class="header-item">
           <a href="#" class="header-link">About Us</a>
@@ -26,31 +26,84 @@
     <div class="social-wrap">
       <ul class="social-list">
         <li class="social-item">
-          <a href="" class="social-link"
+          <a href="https://www.facebook.com/goITclub/" class="social-link"
             ><svg width="20" height="20" class="social-pic">
-              <use href="../img/icon.svg#icon-facebook"></use></svg
+              <use href="/img/icon.svg#icon-facebook"></use></svg
           ></a>
         </li>
         <li class="social-item">
-          <a href="" class="social-link"
+          <a href="https://www.instagram.com/goitclub/" class="social-link"
             ><svg width="20" height="20" class="social-pic">
-              <use href="../img/icon.svg#icon-instagram"></use></svg
+              <use href="/img/icon.svg#icon-instagram"></use></svg
           ></a>
         </li>
         <li class="social-item">
-          <a href="" class="social-link"
+          <a href="https://www.youtube.com/c/GoIT" class="social-link"
             ><svg width="20" height="20" class="social-pic">
-              <use href="../img/icon.svg#icon-youtube"></use></svg
+              <use href="/img/icon.svg#icon-youtube"></use></svg
           ></a>
         </li>
       </ul>
     </div>
-    <button class="header-btn" type="button">
-      <svg class="header-btn-open" width="28" height="28">
-        <use href="../img/icon.svg#icon-open-menu"></use>
+    <button class="header-btn" type="button" data-mobile-menu-open>
+      <svg class="header-btn-open" width="34" height="34">
+        <use href="/img/icon.svg#icon-open-menu"></use>
       </svg>
     </button>
   </div>
 </header>
 
 <!-- Mob menu -->
+<div class="backdrop" data-mobile-data-menu>
+  <div class="mob-wrap">
+    <button class="mob-btn-close" type="button" data-mobile-menu-close>
+      <svg class="btn-close" width="34" height="34">
+        <use href="/img/icon.svg#icon-x"></use>
+      </svg>
+    </button>
+    <nav class="mob-menu">
+      <ul class="mob-list">
+        <li class="mob-item">
+          <a href="#" class="mob-link current">Home</a>
+        </li>
+        <li class="mob-item">
+          <a href="#" class="mob-link">About Us</a>
+        </li>
+        <li class="mob-item">
+          <a href="#" class="mob-link">Catalog</a>
+        </li>
+        <li class="mob-item">
+          <a href="#" class="mob-link">Sale</a>
+        </li>
+        <li class="mob-item">
+          <a href="#" class="mob-link">Reviews</a>
+        </li>
+        <li class="mob-item">
+          <a href="#" class="mob-link">Contact Us</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="social-mob-wrap">
+      <ul class="social-mob-list">
+        <li class="social-item">
+          <a href="https://www.facebook.com/goITclub/" class="social-link"
+            ><svg width="20" height="20" class="social-pic">
+              <use href="/img/icon.svg#icon-facebook"></use></svg
+          ></a>
+        </li>
+        <li class="social-item">
+          <a href="https://www.instagram.com/goitclub/" class="social-link"
+            ><svg width="20" height="20" class="social-pic">
+              <use href="/img/icon.svg#icon-instagram"></use></svg
+          ></a>
+        </li>
+        <li class="social-item">
+          <a href="https://www.youtube.com/c/GoIT" class="social-link"
+            ><svg width="20" height="20" class="social-pic">
+              <use href="/img/icon.svg#icon-youtube"></use></svg
+          ></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
