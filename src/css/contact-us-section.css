@@ -162,6 +162,15 @@
     height: 556px;
   }
 
+  .form-input {
+    height: 52px;
+  }
+
+  .area-text {
+    display: block;
+    height: 90px;
+  }
+
   .contact-img-wrapper {
     flex-shrink: 0;
     max-height: 100%;
