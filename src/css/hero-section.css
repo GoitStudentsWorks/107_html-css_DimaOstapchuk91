@@ -92,6 +92,10 @@
     min-width: 146px;
   }
 
+  .hero-icon {
+    width: 146px;
+  }
+
   .hero-wrap {
     justify-content: space-between;
   }
