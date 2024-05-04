@@ -42,6 +42,7 @@
 
 .image-about-us {
     height: auto;
+    width: 100%;
     border-radius: 30px;
     background-color: rgba(12, 12, 12, 0.2);
 }
@@ -69,9 +70,6 @@
         color: rgba(12, 12, 12, 0.7);
     }
 
-    .image-about-us {
-        width: 100%;
-    }
 }
 
 @media screen and (min-width: 1280px) {
