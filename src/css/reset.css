@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Gilroy', sans-serif;
   color: rgba(12, 12, 12, 0.7);
@@ -80,10 +84,10 @@ address {
   .section {
     padding: 40px 0;
   }
-    h2 {
-      font-size: 48px;
-      line-height: 0.92;
-    }
+  h2 {
+    font-size: 48px;
+    line-height: 0.92;
+  }
 }
 
 @media screen and (min-width: 1280px) {
@@ -94,5 +98,4 @@ address {
   .section {
     padding: 50px 0;
   }
-  
 }
