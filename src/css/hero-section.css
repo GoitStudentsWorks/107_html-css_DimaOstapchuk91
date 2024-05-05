@@ -41,6 +41,7 @@
   letter-spacing: -0.02em;
   text-decoration: underline;
   color: #0c0c0c;
+  transition: color 300ms ease-in-out;
 }
 
 .hero-scroll:hover,
