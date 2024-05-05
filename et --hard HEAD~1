@@ -1,0 +1,914 @@
+[33mcommit 09dd7c2b55169c06c7df522cb6f165d513fa3c6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Sun May 5 12:03:56 2024 +0300
+
+    fixed-bug
+
+[33mcommit e418fce56ab5176d87e0be618323de99401de82c[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Sun May 5 11:57:35 2024 +0300
+
+    fix-bug
+
+[33mcommit 9a24811e5341d6ee6849857feb74be7d71983c70[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Sun May 5 11:45:30 2024 +0300
+
+    add js swiper
+
+[33mcommit 2764c243f187bc9a45255fa00f61172c6c8da797[m
+Merge: f687433 6060d11
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sun May 5 11:17:40 2024 +0300
+
+    Merge pull request #50 from DimaOstapchuk91/Advertisement
+    
+    Advertisement
+
+[33mcommit 6060d114978de6e5437df773177423bf7d4a392b[m
+Merge: 7338363 f687433
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Sun May 5 09:28:07 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit f6874330f6e7d270149c813db7dc99f2301f25dd[m
+Merge: 7edea5f 747727b
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Sun May 5 09:27:07 2024 +0300
+
+    Merge pull request #48 from DimaOstapchuk91/advantages
+    
+    add svg footer >
+
+[33mcommit 7edea5f42e2dbd953b9b5deb38d976489e1c4d01[m
+Merge: a9197d8 4e3fa65
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sun May 5 09:20:00 2024 +0300
+
+    Merge pull request #47 from DimaOstapchuk91/Ivan-Catalog
+    
+    Ivan catalog
+
+[33mcommit 747727bc479c93644713ae35abebd214762fe333[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Sun May 5 09:18:29 2024 +0300
+
+    add svg >
+
+[33mcommit 73383632022b289a3b1a6f9d9154ac73ffe82001[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Sun May 5 08:51:00 2024 +0300
+
+    add >
+
+[33mcommit 4e3fa6595f23b42ab3892e243b5f3c32009e4401[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Sun May 5 03:06:51 2024 +0300
+
+    last
+
+[33mcommit be6d0c95188626e004e7b3590a57b02dff4e59a7[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Sat May 4 23:23:04 2024 +0300
+
+    add
+
+[33mcommit 22a6ba3dcdb7aaf6a46318b6ff85e9d59517ce23[m[33m ([m[1;31morigin/Ivan-Catalog[m[33m)[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Sat May 4 22:45:03 2024 +0300
+
+    commit
+
+[33mcommit a9197d8f22fac98d3919c23741b3fc3fc6237635[m[33m ([m[1;31morigin/alexey[m[33m)[m
+Merge: 68663d2 78cde5c
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sat May 4 20:09:55 2024 +0300
+
+    Merge pull request #46 from DimaOstapchuk91/volodymyrfixli
+    
+    fixed li
+
+[33mcommit 78cde5c74a1d389e089fda9f57da604c08ff7bf4[m
+Author: Volodymyr Luniv <clinic118811@gmail.com>
+Date:   Sat May 4 20:06:07 2024 +0300
+
+    fix transform
+
+[33mcommit fe88cc05df7da0e025b658b639afbdc1f48fef44[m
+Author: Volodymyr Luniv <clinic118811@gmail.com>
+Date:   Sat May 4 17:47:14 2024 +0300
+
+    fixed li
+
+[33mcommit 68663d2675af3b3bfad8322cf29aca70603f2822[m
+Merge: 234d8ac a88f07f
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sat May 4 16:38:53 2024 +0300
+
+    Merge pull request #44 from DimaOstapchuk91/volodymyrfixicon
+    
+    fixed icon hover
+
+[33mcommit a88f07fb68c88a44d24c9f50c977245aeb98ecdc[m
+Author: Volodymyr Luniv <clinic118811@gmail.com>
+Date:   Sat May 4 16:34:07 2024 +0300
+
+    fixed icon hover
+
+[33mcommit 234d8ac1f7a4fbc7fe621dcd59a1aa7bc5a949ed[m
+Merge: 0a2e660 80f6bfb
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sat May 4 11:37:12 2024 +0300
+
+    Merge pull request #43 from DimaOstapchuk91/add-resset
+    
+    add scroll-behavior
+
+[33mcommit 80f6bfb459388f198f1d1351afabebc3ebc03d72[m[33m ([m[1;31morigin/add-resset[m[33m, [m[1;32madd-resset[m[33m)[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Sat May 4 11:34:23 2024 +0300
+
+    add scroll-behavior
+
+[33mcommit 0a2e6608e8e3d8ffa6764cfb66bf76b282439169[m
+Merge: 0d17243 a39e9e0
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sat May 4 10:52:33 2024 +0300
+
+    Merge pull request #42 from DimaOstapchuk91/about-us-chaika
+    
+    error
+
+[33mcommit 0d17243c0c3e535f9b2bab76d3a9304437015f1c[m
+Merge: 28d4969 b6b8dd0
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Sat May 4 10:51:54 2024 +0300
+
+    Merge pull request #41 from DimaOstapchuk91/volodymyrfixmob
+    
+    fix mobil menu
+
+[33mcommit a39e9e05b41456325e8ccfdcdada8c352e3f463b[m
+Author: Alex Sea <seagullalex81@gmail.com>
+Date:   Sat May 4 09:59:08 2024 +0300
+
+    error
+
+[33mcommit b6b8dd085416135fbff55df57bc7e28300918e71[m[33m ([m[1;31morigin/volodymyrfixmob[m[33m)[m
+Author: Volodymyr Luniv <clinic118811@gmail.com>
+Date:   Fri May 3 22:45:27 2024 +0300
+
+    fix mobil menu
+
+[33mcommit 28d4969aefcdcfa8ff9eb5f357112cba210e8d06[m
+Merge: ada6877 194920a
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 22:10:54 2024 +0300
+
+    Merge pull request #38 from DimaOstapchuk91/havlovych-fix-hero-image
+    
+    fix for image border
+
+[33mcommit ada68776afc5b32712728617755fe659705963c9[m
+Merge: 5e2f554 558487d
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 21:57:45 2024 +0300
+
+    Merge pull request #40 from DimaOstapchuk91/Advertisement-section
+    
+    add file css index
+
+[33mcommit 558487df076393dc9ac32f4c5261a430364f6e93[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 21:55:25 2024 +0300
+
+    add file css index
+
+[33mcommit 5e2f55420799521350a107be659cbeacb748ab90[m
+Merge: 929af06 d8f614e
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 21:54:08 2024 +0300
+
+    Merge pull request #39 from DimaOstapchuk91/Advertisement-section
+    
+    Advertisement section
+
+[33mcommit d8f614ef6353bfa6f5536ab475b8533a7d045e12[m[33m ([m[1;31morigin/Advertisement-section[m[33m)[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 21:02:12 2024 +0300
+
+    add images css
+
+[33mcommit 194920a5c471de816cee16eaf3f4314cd2588deb[m[33m ([m[1;31morigin/havlovych-fix-hero-image[m[33m)[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Fri May 3 20:55:10 2024 +0300
+
+    fix for image border
+
+[33mcommit 587cafe7cfb7e4419f95c0e360ea0d7c85778e5a[m
+Merge: cd28fda 929af06
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 20:53:45 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit 929af06692778f0efa02389806e7ef1d0b0323f5[m[33m ([m[1;32mostapchuk-rewiev[m[33m, [m[1;32mostapchuk-review[m[33m)[m
+Merge: 20f7283 0dffde7
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 20:51:24 2024 +0300
+
+    Merge pull request #37 from DimaOstapchuk91/fix-branch
+    
+    fixed-error
+
+[33mcommit 0dffde794652f2f10048194e2f55fe6757e7eaf1[m[33m ([m[1;31morigin/fix-branch[m[33m)[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Fri May 3 20:49:18 2024 +0300
+
+    fixed-error
+
+[33mcommit cd28fdaa59fc4e959a080baf14a2f74bd3469113[m
+Merge: b0f15d7 20f7283
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 20:20:22 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit 20f72836470601cb2ae500c75c055c506fa778da[m
+Merge: 2d127c3 47b3ade
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 20:14:27 2024 +0300
+
+    Merge pull request #34 from DimaOstapchuk91/features/advertisement-section
+    
+    add contact us a href
+
+[33mcommit 47b3ade9daa580e19e44d36f311c6cbad2907e68[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 20:10:27 2024 +0300
+
+    add contact us a href
+
+[33mcommit 2d127c3a5f45d7074faab43e4edc86126b5b9671[m
+Merge: ff78a9d 846b875
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 20:09:46 2024 +0300
+
+    Merge pull request #32 from DimaOstapchuk91/fix-js
+    
+    fix.js
+
+[33mcommit 846b8759cea1a2e4ae3db33db58951bc68635577[m[33m ([m[1;31morigin/fix-js[m[33m)[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Fri May 3 20:05:25 2024 +0300
+
+    fix.js
+
+[33mcommit ff78a9dd8b07feb0438acfb3d304ec546918a562[m
+Merge: 91f9515 b9d3dfc
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 19:38:25 2024 +0300
+
+    Merge pull request #31 from DimaOstapchuk91/fix-js
+    
+    fix js...
+
+[33mcommit b9d3dfc1afc3091d260e7e618b76ec284fc382c0[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Fri May 3 19:35:55 2024 +0300
+
+    fix js...
+
+[33mcommit 91f9515476734bf65539c7765fecd51d9ef3a9a7[m
+Merge: fb289b3 ffe9050
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 19:28:03 2024 +0300
+
+    Merge pull request #30 from DimaOstapchuk91/fix-js
+    
+    fix js link
+
+[33mcommit ffe90503c2525e7d5062674b74c5043aabf0e6f4[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Fri May 3 19:26:14 2024 +0300
+
+    fix js link
+
+[33mcommit fb289b3c05e4d136658c5d2f4c75f06d58915bf2[m
+Merge: 6eb19e0 f1e6f25
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 19:22:35 2024 +0300
+
+    Merge pull request #29 from DimaOstapchuk91/fix-js
+    
+    fix munu.js link
+
+[33mcommit f1e6f25e49752481de52359cbfedda62d226d04b[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Fri May 3 19:21:51 2024 +0300
+
+    fix munu.js link
+
+[33mcommit 6eb19e05f25565014d74df05178212f0aa895ff7[m
+Merge: 91e6728 dceb66c
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 18:46:22 2024 +0300
+
+    Merge pull request #24 from DimaOstapchuk91/footer-ostapchuk
+    
+    fix padding top mobile and tablet
+
+[33mcommit 91e6728556fa4e8769021afe2ef7254c08bf7e17[m
+Merge: a764acf bfeaed3
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 18:45:41 2024 +0300
+
+    Merge pull request #25 from DimaOstapchuk91/about-us-chaika
+    
+    add-decoration-button
+
+[33mcommit a764acf30ad943a0bd4bf5400a0e0ee2d35a927e[m
+Merge: 21cc443 854cc23
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 18:37:05 2024 +0300
+
+    Merge pull request #28 from DimaOstapchuk91/bugfix/contact-us-img
+    
+    fixed img
+
+[33mcommit 854cc237671aea37c6985cd4e536103f10183221[m
+Author: Janine Pastukh <evgenia.pastuh@gmail.com>
+Date:   Fri May 3 18:33:10 2024 +0300
+
+    Form fixed
+
+[33mcommit 5ed406abad25db72f611259fa024495beff80772[m
+Author: Janine Pastukh <evgenia.pastuh@gmail.com>
+Date:   Fri May 3 17:43:24 2024 +0300
+
+    fixed img
+
+[33mcommit 21cc443ffaf6725bece64f62fe32533532be26c6[m
+Merge: 861a6ea f96480f
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 16:46:43 2024 +0300
+
+    Merge pull request #26 from DimaOstapchuk91/feature/contuct-us
+    
+    Feature/contuct us updates
+
+[33mcommit 861a6ea4d91a7832b5c0e3dd2d2bf53030e99b8d[m
+Merge: 5d3086c 061de5b
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 15:37:23 2024 +0300
+
+    Merge pull request #23 from DimaOstapchuk91/volodymyrmob
+    
+    add mob
+
+[33mcommit f96480f5777a089cd2b30abe6cc8d148f5d79335[m
+Merge: 1959417 5d3086c
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 15:30:12 2024 +0300
+
+    Merge branch 'main' into feature/contuct-us
+
+[33mcommit 1959417c0eacdc999d321272b65872d15fd4f922[m
+Merge: 7d05e2f b3aef91
+Author: Janine Pastukh <evgenia.pastuh@gmail.com>
+Date:   Fri May 3 15:19:16 2024 +0300
+
+    Merge branch 'main' into feature/contuct-us
+
+[33mcommit 7d05e2f477acff226c3e900f5fd252d4bfbaccb0[m
+Author: Janine Pastukh <evgenia.pastuh@gmail.com>
+Date:   Fri May 3 15:13:31 2024 +0300
+
+    Updates
+
+[33mcommit dceb66cc2f3866dc283a88c3fd3f3a44b1788272[m
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 14:44:12 2024 +0300
+
+    fix padding top mobile and tablet
+
+[33mcommit bfeaed398ff3d6fa3d4354e0e2f080cef330d658[m
+Author: Alex Sea <seagullalex81@gmail.com>
+Date:   Fri May 3 14:39:27 2024 +0300
+
+    add-decoration-button
+
+[33mcommit 5d3086c9b6f6584f29dfa2f6bf11aadf15585a33[m
+Merge: b3aef91 eb8c89f
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 14:24:14 2024 +0300
+
+    Merge pull request #21 from DimaOstapchuk91/feature/contuct-us
+    
+    Feature/contuct us
+
+[33mcommit b0f15d7a480e1f31c71256491ff81132c84f2d5e[m
+Merge: 046e4bb b3aef91
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 13:01:57 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit b3aef919762fd66d69451f1201e369645cd5aed0[m
+Merge: f8f64df c55b35c
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 13:00:10 2024 +0300
+
+    Merge pull request #22 from DimaOstapchuk91/ostapchuk-footer
+    
+    add hover focus and fix padding in mobile
+
+[33mcommit c55b35caf1dab4c88c089ec277e8257b1855d2e1[m
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 12:52:28 2024 +0300
+
+    add hover focus and fix padding in mobile
+
+[33mcommit eb8c89f9b869e00bd4cd29c26b318bae992e428c[m
+Merge: cccf26e f8f64df
+Author: Janine Pastukh <evgenia.pastuh@gmail.com>
+Date:   Fri May 3 12:14:05 2024 +0300
+
+    Merge branch 'main' into feature/contuct-us
+
+[33mcommit cccf26ef0eb8f317666970e0b3a8ae355b077751[m
+Author: Janine Pastukh <evgenia.pastuh@gmail.com>
+Date:   Fri May 3 12:11:18 2024 +0300
+
+    Contact us section
+
+[33mcommit f8f64dfc817c7bb9433547458139dd937476710c[m
+Merge: f618538 a99643c
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Fri May 3 11:34:02 2024 +0300
+
+    Merge pull request #18 from DimaOstapchuk91/ostapchuk-footer
+    
+    add soc icon and all links
+
+[33mcommit f61853838d83391474edc61658010e42037d819b[m
+Merge: 60c5e88 f936563
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Fri May 3 08:29:53 2024 +0300
+
+    Merge pull request #20 from DimaOstapchuk91/havlovych-hero-fix
+    
+    fix icon size
+
+[33mcommit f936563d87c126c42f1433e3766804c4d5cafc80[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Fri May 3 08:26:08 2024 +0300
+
+    fix icon size
+
+[33mcommit 061de5b433b54f61faff1b89c9ca39951d5df8a7[m
+Author: Volodymyr Luniv <clinic118811@gmail.com>
+Date:   Fri May 3 05:42:45 2024 +0300
+
+    add mob
+
+[33mcommit 5916bd9c1be1cfe31fe176713c09b1c926a5e942[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Fri May 3 00:43:16 2024 +0300
+
+    full
+
+[33mcommit 60c5e883fdaf2ca536e805c0f78af9705f377696[m
+Merge: c34d078 1549a5f
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 23:36:48 2024 +0300
+
+    Merge pull request #16 from DimaOstapchuk91/havlovych-hero
+    
+    add hero structure and style
+
+[33mcommit c34d078dd41e3709f3f478689c10476bcc41885f[m
+Merge: 06b7744 1418e27
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 23:12:15 2024 +0300
+
+    Merge pull request #17 from DimaOstapchuk91/about-us-chaika
+    
+    fixed-error-section
+
+[33mcommit a99643cfc3915064da11384e9f977c426d17062f[m[33m ([m[1;31morigin/ostapchuk-footer[m[33m)[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Thu May 2 23:07:21 2024 +0300
+
+    add soc icon and all links
+
+[33mcommit 1418e27d85c847bc437afeb2235452faa5caa6d1[m
+Author: Alex Sea <seagullalex81@gmail.com>
+Date:   Thu May 2 23:03:39 2024 +0300
+
+    fixed-error-section
+
+[33mcommit 1549a5f94153470e038fcba1626c2ca45cbfce38[m[33m ([m[1;31morigin/havlovych-hero[m[33m)[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Thu May 2 22:43:01 2024 +0300
+
+    add hero structure and style
+
+[33mcommit 06b77447845b08bf03c9dc60becb0f38b488c43d[m
+Merge: 39664e3 1b18c7d
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 22:18:18 2024 +0300
+
+    Merge pull request #15 from DimaOstapchuk91/about-us-chaika
+    
+    finish-section-about-us
+
+[33mcommit 1b18c7d3e7f18a936be7b26a017373b7bb00b40e[m[33m ([m[1;31morigin/about-us-chaika[m[33m)[m
+Author: Alex Sea <seagullalex81@gmail.com>
+Date:   Thu May 2 21:25:27 2024 +0300
+
+    finish-section-about-us
+
+[33mcommit 39664e39718c17b8d4ddee1bdf037c5871b20cc9[m
+Merge: 4cb991d 5024dd3
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 20:44:44 2024 +0300
+
+    Merge pull request #14 from DimaOstapchuk91/features/advertisement-section
+    
+    Features/advertisement section
+
+[33mcommit 5024dd3550369b04e5021d7f414a24b125c5535f[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 20:43:10 2024 +0300
+
+    add images hero
+
+[33mcommit 4cb991d468f02703361e28c434f0dd6a9f72acb5[m
+Merge: f311600 5bbb46c
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 20:02:48 2024 +0300
+
+    Merge pull request #13 from DimaOstapchuk91/havlovych-sale-fixes
+    
+    fix tablet and desktop
+
+[33mcommit 5bbb46ccc9baca1f5507a978119274fb67606855[m[33m ([m[1;31morigin/havlovych-sale-fixes[m[33m)[m
+Merge: c8f9d94 f311600
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Thu May 2 19:41:46 2024 +0300
+
+    Merge branch 'main' into havlovych-sale-fixes
+
+[33mcommit c8f9d94d6c5eca00daa7d4eec1171dac0dc9f9a4[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Thu May 2 19:41:22 2024 +0300
+
+    add id to section
+
+[33mcommit 4e0f1b844aac7168f5b1d0b2a1e8dd37b74fb15e[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Thu May 2 18:57:23 2024 +0300
+
+    fix tablet and desktop
+
+[33mcommit bca68377c1e06d5d47fa75e75bdc5eb8e84a3195[m[33m ([m[1;31morigin/features/advertisement-section[m[33m)[m
+Merge: 110bfad f311600
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 18:55:22 2024 +0300
+
+    Merge pull request #12 from DimaOstapchuk91/main
+    
+    dfsdfdfs
+
+[33mcommit 046e4bb85e186be169a6208504053967d315d3dd[m
+Merge: fb8b28a f311600
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 18:34:37 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit f311600d9487fdd3c7a3ee85d9ed60ce4060677a[m
+Merge: 7469410 110bfad
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 18:30:17 2024 +0300
+
+    Merge pull request #11 from DimaOstapchuk91/features/advertisement-section
+    
+    Features/advertisement section
+
+[33mcommit 110bfad1915d4dca846805e9512adbdb9654f831[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 18:27:12 2024 +0300
+
+    ddesc
+
+[33mcommit 5b81caf788f8bfb81dace2f1622b4ef9485670a6[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 18:19:37 2024 +0300
+
+    cubic bazier
+
+[33mcommit 64e0d94e35163bb0999b51e1b5bb80ee1ce9cc00[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:45:50 2024 +0300
+
+    add img media
+
+[33mcommit e624cebdcc834fa0e746d3169b932e84401af246[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:24:47 2024 +0300
+
+    add padding
+
+[33mcommit fb8b28aa0aed179428fcc10d2d96a85037859dd1[m
+Merge: 1f17e80 7469410
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:17:26 2024 +0300
+
+    main commit
+
+[33mcommit 74694103bdbf51ba5ac4b0ea4e1a98fedf962da4[m
+Merge: 79b2f94 d49dbf0
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 16:15:00 2024 +0300
+
+    Merge pull request #10 from DimaOstapchuk91/features/advertisement-section
+    
+    fixed
+
+[33mcommit d49dbf0b4d087b0240bc29b76b7742001421cd16[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:10:17 2024 +0300
+
+    fixed
+
+[33mcommit 1f17e80f694a2c6155ddb54440e94caed04d83d5[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:09:01 2024 +0300
+
+    fixed
+
+[33mcommit 1e803e00c664369f0adf9010d5ce8b93c7ab4c76[m
+Merge: 68a6599 79b2f94
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:04:30 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit 79b2f946967363cefc0a1d55ea69623244c6be25[m
+Merge: db02052 f1521d8
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 16:02:13 2024 +0300
+
+    Merge pull request #9 from DimaOstapchuk91/features/advertisement-section
+    
+    Features/advertisement section
+
+[33mcommit f1521d808334c674e56c64e923318de241922273[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 16:00:13 2024 +0300
+
+    push sections
+
+[33mcommit d643fd41de4152259f46effd63eaa3fa1591d100[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 15:49:24 2024 +0300
+
+    fexed
+
+[33mcommit db02052fcd93f854f02fd9a8e8aa95a828e55127[m
+Merge: a8819fd 6a1ddb1
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 15:11:19 2024 +0300
+
+    Merge pull request #8 from DimaOstapchuk91/ostapchuk-footer
+    
+    rename projekt title
+
+[33mcommit 6a1ddb1bd4d47720d73a97ba2356b634dbc5b17d[m
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 15:09:26 2024 +0300
+
+    rename projekt title
+
+[33mcommit 343b3f2c3553e65d7fb4aa946718028f8ab38df5[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 15:03:37 2024 +0300
+
+    materials section
+
+[33mcommit a8819fda295aeedf85cf32a3a4c4082474e9b96f[m
+Merge: 3453cd5 2950571
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Thu May 2 12:44:11 2024 +0300
+
+    Merge pull request #7 from DimaOstapchuk91/volodymyrheader
+    
+    add sprite & header
+
+[33mcommit 68a6599fcc9dd60f6c4862ac127ffda0f7725f15[m
+Merge: 2d76c6f 3453cd5
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 10:31:04 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit 3453cd5de376ab45273c830a0922ae74f13d0ea4[m
+Merge: 1117396 3f0b711
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 10:30:39 2024 +0300
+
+    Merge pull request #6 from DimaOstapchuk91/ostapchuk-footer
+    
+    add mobile version code and tablet and desctop and add html code in f…
+
+[33mcommit 2d76c6f6ba19f620e1bd277adaa358f48340d03e[m
+Merge: 249af1d 1117396
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Thu May 2 09:05:15 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit 29505719613aa2c46ead3ea707a47ca01d456c29[m
+Author: Volodymyr Luniv <clinic118811@gmail.com>
+Date:   Thu May 2 02:38:05 2024 +0300
+
+    add sprite & header
+
+[33mcommit 3f0b71117c0e129800f618853fd095eb8cdf5ddb[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Thu May 2 02:23:47 2024 +0300
+
+    add mobile version code and tablet and desctop and add html code in footer section
+
+[33mcommit 1117396a75d2005e579aab65c134a2ad6f9621de[m
+Merge: e8100c9 e6b379e
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Wed May 1 23:39:46 2024 +0300
+
+    Merge pull request #4 from DimaOstapchuk91/havlovych-sale
+    
+    Havlovych sale
+
+[33mcommit e8100c9dabb344df510fc191bdad762170e28084[m
+Merge: e81ddb0 76a5717
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Wed May 1 22:37:31 2024 +0300
+
+    Merge pull request #3 from DimaOstapchuk91/Ivan-Catalog
+    
+    img
+
+[33mcommit e81ddb0127ad2cc43de43da45a2825204d29f72b[m
+Merge: 4ac34b3 c9f98db
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Wed May 1 22:24:13 2024 +0300
+
+    Merge pull request #5 from DimaOstapchuk91/about-us-chaika
+    
+    add-img-section-about-us
+
+[33mcommit 76a5717a85e02081b3b2275b2f376a0a0980a581[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Wed May 1 22:15:42 2024 +0300
+
+    img3
+
+[33mcommit 5b10e180de417aec4b9f6137c018e0ffe427b710[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Wed May 1 21:45:07 2024 +0300
+
+    img
+
+[33mcommit c9f98dbff3bbe8442496d88530e24fc86701ae96[m
+Author: Alex Sea <seagullalex81@gmail.com>
+Date:   Wed May 1 21:10:11 2024 +0300
+
+    add-img-section-about-us
+
+[33mcommit e6b379ef398f4ce66cbf9ca38467d2b1bbc50c89[m[33m ([m[1;31morigin/havlovych-sale[m[33m)[m
+Merge: d83900f 4ac34b3
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Wed May 1 20:10:55 2024 +0300
+
+    Merge branch 'main' into havlovych-sale
+
+[33mcommit d83900fc8cf7ed4fcaa70cdf5ff3cfb9c837aa07[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Wed May 1 20:02:59 2024 +0300
+
+    add styles for all platforms
+
+[33mcommit b27694cb1e4fd22a3983d216b60419c92befac6d[m
+Author: Ivan <trushivan339@gmail.com>
+Date:   Wed May 1 19:41:28 2024 +0300
+
+    img
+
+[33mcommit 249af1dbfd506b0efabb3aebf6bb8fd6f196e856[m
+Merge: 31a1fd1 4ac34b3
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Wed May 1 15:08:44 2024 +0300
+
+    Merge branch 'main' of https://github.com/DimaOstapchuk91/ArtTeam
+
+[33mcommit 31a1fd1789ce5eeb312a11d703ba47c9fba15e82[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Wed May 1 15:08:40 2024 +0300
+
+    add
+
+[33mcommit 60ad1c6912c0e346ebac9bc27de89b43b04d8d55[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Wed May 1 13:21:40 2024 +0300
+
+    add basic structure
+
+[33mcommit 8e99a70aa7ac448bc884194736f609367c22fa42[m
+Author: Daria Havlovych <daria.havlovych@gmail.com>
+Date:   Wed May 1 13:15:31 2024 +0300
+
+    add basic structure
+
+[33mcommit 4ac34b36ef0437f71f25239b54d3cc6408f2d67b[m
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Wed May 1 13:03:19 2024 +0300
+
+    fix link cuntact-us-section
+
+[33mcommit d41c6258271282eb99053e0bd63b14737f5cb5f0[m
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Wed May 1 12:13:11 2024 +0300
+
+    add img folder and fix h2 title and add menu.js
+
+[33mcommit dbc716b9f6ea83615977259b7c814e0f6eab8fc1[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Wed May 1 09:58:55 2024 +0300
+
+    master delet
+
+[33mcommit 5f8614047bb4493ac04986f2e1caa4d2f9531312[m
+Merge: f2144a0 0f2b262
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Wed May 1 09:40:37 2024 +0300
+
+    Merge pull request #1 from DimaOstapchuk91/img
+    
+    images advert
+
+[33mcommit 0f2b2620b4c8eefa6f0535df16db20fe2f66fbb5[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Wed May 1 09:38:13 2024 +0300
+
+    add img
+
+[33mcommit 17b9a65133a8f949490cb3354eeb0c03c8109195[m
+Author: alexey <160915208+Alexey223344@users.noreply.github.com>
+Date:   Wed May 1 09:18:54 2024 +0300
+
+    images advert
+
+[33mcommit f2144a0e170dc732fc15e49d98c059a148508837[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Wed May 1 01:15:04 2024 +0300
+
+    test
+
+[33mcommit 29ca471e6ff2478e1e7995b80076cd040fb98dba[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Wed May 1 01:12:26 2024 +0300
+
+    test
+
+[33mcommit 095f359980041c1397fcc4e83c5339817c1e2ea8[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Wed May 1 00:26:41 2024 +0300
+
+    test
+
+[33mcommit 5dd079734edd6596b7e60198b816f38942e3d136[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Wed May 1 00:16:02 2024 +0300
+
+    fixed package.json
+
+[33mcommit d3b1d9572682eecdd9cf97559bd70b77671a1005[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Wed May 1 00:12:00 2024 +0300
+
+    fixed js file
+
+[33mcommit 8810bfa32aae27940b65a6b03b4249824f8716cf[m
+Author: Dima_Ostapchuk <Adrenalinbd@gmail.com>
+Date:   Wed May 1 00:04:07 2024 +0300
+
+    create team project
+
+[33mcommit 245a22e60810cb9834a276647cdb607ddd4e2c08[m
+Author: DimaOstapchuk91 <Adrenalinbd@gmail.com>
+Date:   Tue Apr 30 21:21:16 2024 +0200
+
+    Initial commit
