@@ -51,10 +51,7 @@
 }
 
 @media screen and (min-width: 1280px) {
-  .review-list {
-    /* display: flex;
-    gap: 20px; */
-  }
+
   .review-item {
     max-width: 370px;
     max-height: 270px;
