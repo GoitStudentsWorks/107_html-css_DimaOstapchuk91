@@ -18,11 +18,13 @@ const swiper = new Swiper('.swiper-container', {
       spaceBetween: 20,
     },
   },
+
   pagination: {
     el: '.pagination',
     bulletClass: 'pagination__button',
     bulletActiveClass: 'pagination__button--active',
   },
+
   navigation: {
     nextEl: '.carousel-button.next',
     prevEl: '.carousel-button.prev',
