@@ -86,7 +86,7 @@
   }
   .header-link:not(.current-nav):hover,
   .header-link:not(.current-nav):focus {
-    transform: scale(1.1);
+    transform: scale(1.05);
     opacity: 0.8;
     color: #3350e9;
   }
@@ -142,7 +142,7 @@
 
   .header-social-link:hover,
   .header-social-link:focus {
-    transform: scale(1.1);
+    transform: scale(1.05);
     opacity: 0.8;
     border: 1px solid rgba(51, 80, 233, 0.4);
     fill: #3350e9;
@@ -166,9 +166,7 @@ Mob menu
 }
 
 .is-open {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
+  transform: translateX(0);
 }
 
 .mob-wrap {
